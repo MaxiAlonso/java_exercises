@@ -1,1 +1,1 @@
-# java_exercises
+Learning some java
